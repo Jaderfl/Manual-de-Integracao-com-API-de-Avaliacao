@@ -1,6 +1,14 @@
 ﻿Apresentação
 ============
 
+A avaliação de satisfação é importante porque:
+
+    - Assegura a participação dos usuários 
+    - Permite que os gestores acompanhem a percepção do usuário
+
+A avaliação é obrigatória para todos os serviços digitais do governo
+
+
 O decreto 8936/2016, instituiu a Plataforma de Cidadania Digital e dispôs sobre a oferta dos serviços públicos digitais, no âmbito dos órgãos e das entidades da administração pública federal direta, autárquica e fundacional.
 
 No seu artigo 3º, incisos IV e V foi instituído a ferramenta de avaliação da satisfação dos usuários em relação aos serviços públicos prestados e o painel de monitoramento do desempenho dos serviços públicos prestados.
