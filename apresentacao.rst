@@ -24,14 +24,14 @@ Fluxo simplificado para o cidadão
 
 O formulário de avaliação deverá ser exibido na própria página do serviço para melhor experiência do cidadão.
 
-.. figure:: _imagens/nova_avaliacao_01.png
+.. figure:: _imagens/API qualidade 1.png
    :scale: 100 %
    :align: center
    :alt: Primeira parte do fluxo para o cidadão.
 
    Ao final da prestação do serviço o cidadão recebe o formulário de avaliação
 
-.. figure:: _imagens/nova_avaliacao_02.png
+.. figure:: _imagens/API qualidade 2.png
     :scale: 100 %
     :align: center
     :alt: Cidadão responde a avaliação.
