@@ -22,7 +22,7 @@ Decreto 9.094/2017 (art 20 e 20-A).
 Entre as informações mínimas que deverão estar disponíveis no painel para cada serviço, órgão ou entidade da administração pública federal, estão o volume de solicitações, tempo médio de atendimento e o nível de satisfação dos usuários.
 
 
-Fluxo simplificado para o cidadão
+Formulário simplificado para o cidadão
 *********************************
 
 O formulário de avaliação deverá ser exibido na própria página do serviço para melhor experiência do cidadão.
