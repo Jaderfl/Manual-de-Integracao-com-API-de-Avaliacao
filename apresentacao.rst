@@ -38,7 +38,7 @@ O formulário de avaliação deverá ser exibido na própria página do serviço
 
     O cidadão poderá avaliar até 7 dimensões predeterminadas
 
-.. figure:: _imagens/nova_avaliacao_03.png
+.. figure:: _imagens/apiqualidade3.png
     :scale: 100 %
     :align: center
     :alt: Cidadão responde a avaliação.
