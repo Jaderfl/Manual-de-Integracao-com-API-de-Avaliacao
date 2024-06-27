@@ -24,8 +24,7 @@ Fluxo simplificado para o cidadão
 
 O formulário de avaliação deverá ser exibido na própria página do serviço para melhor experiência do cidadão.
 
-.. figure:: _imagens/apiqualidade1
-.png
+.. figure:: _imagens/apiqualidade1.png
    :scale: 100 %
    :align: center
    :alt: Primeira parte do fluxo para o cidadão.
