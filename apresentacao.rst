@@ -41,7 +41,7 @@ Ao final da prestação do serviço, o cidadão recebe o formulário de avaliaç
     :align: center
     :alt: Cidadão responde a avaliação.
 
-    Após a aavliação, a API encaminhará para uma tela de agradecimentos:
+    Após a avliação, a API encaminhará para uma tela de agradecimentos:
 
 .. figure:: _imagens/apiqualidade3.png
     :scale: 100 %
