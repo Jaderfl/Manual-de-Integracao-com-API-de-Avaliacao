@@ -7,6 +7,7 @@ A avaliação de satisfação é **importante** porque:
 
              Permite que os gestores acompanhem a percepção do usuário
 
+
 A avaliação é **obrigatória** para todos os serviços digitais do governo
               
 Normativos: 
