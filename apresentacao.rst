@@ -23,6 +23,7 @@ Fluxo simplificado para o cidadão
 *********************************
 
 O formulário de avaliação deverá ser exibido na própria página do serviço para melhor experiência do cidadão.
+
 Ao final da prestação do serviço o cidadão recebe o formulário de avaliação
 
 .. figure:: _imagens/apiqualidade1.png
@@ -37,7 +38,7 @@ Ao final da prestação do serviço o cidadão recebe o formulário de avaliaç�
     :align: center
     :alt: Cidadão responde a avaliação.
 
-    Após a aavliação a API encaminhará par uma tela de agradecimentos
+    Após a aavliação a API encaminhará para uma tela de agradecimentos
 
 .. figure:: _imagens/apiqualidade3.png
     :scale: 100 %
